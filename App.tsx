@@ -5,6 +5,8 @@ import GPSTrackerApp from './GPSTrackerApp';
 const App = () => {
   return (
     <View style={styles.container}>
+
+      // Aquí va el componente GPSTrackerApp
       <GPSTrackerApp />
     </View>
   );
